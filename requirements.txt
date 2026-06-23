@@ -1,0 +1,9 @@
+# M7 필수 패키지 (반드시 설치)
+numpy>=1.26.0
+scipy>=1.11.0
+matplotlib>=3.8.0
+pytest>=7.0.0
+pillow>=10.0.0   # 실습 3 Step4 GIF 애니메이션 저장 (PillowWriter)
+
+# 선택 패키지 (노트북 실습 시 추가 설치)
+# pip install jupyter>=1.0.0 pandas>=2.0.0
