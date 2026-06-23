@@ -1,4 +1,4 @@
-# ND1-M7-Robotics (과제 0623, 3d_exercise 폴더 참고)
+# ND1-M7-Robotics (❗과제 0623, 3d_exercise 폴더 참고❗)
 
 A robotics learning project covering Forward Kinematics (FK), Inverse Kinematics (IK), Jacobian analysis, manipulability evaluation, and Kalman filtering for planar robotic manipulators.
 
